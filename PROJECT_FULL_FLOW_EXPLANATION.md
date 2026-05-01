@@ -18,9 +18,9 @@ Your project builds a system for:
 
 The project has **2 main notebooks**:
 
-- `NLP_Project_15_epochs.ipynb`
+- `Training_file.ipynb`
   This is the **training notebook**.
-- `Project_26_infer.ipynb`
+- `Inference_file.ipynb`
   This is the **inference notebook**.
 
 ## 2. Training Notebook Full Flow
