@@ -795,6 +795,4 @@ Inference notebook:
 - `summarize_cs_paper`
 - `print_result`
 
-## 8. Best Viva Closing Line
 
-The project first extracts paper body text and original abstract from arXiv HTML pages, then fine-tunes a transformer summarization model to learn paper-body-to-abstract generation, and finally combines the generated abstract with TF-IDF-based keyword extraction and evaluation metrics.
